@@ -186,15 +186,6 @@ travel-journal-api/
 
 ---
 
-## Contact
-
-For questions or feedback, please reach out via GitHub issues on the respective repositories:
-
-- [travel-journal-spa](https://github.com/<your-username>/travel-journal-spa)
-- [travel-journal-api](https://github.com/<your-username>/travel-journal-api)
-
----
-
 ## Contributions
 
 Contributions are welcome. Feel free to fork the repo and submit pull requests.
